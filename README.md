@@ -1,2 +1,2 @@
 # lkat
-idk
+Modified linikatz by Jdub
